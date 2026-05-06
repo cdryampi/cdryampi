@@ -58,7 +58,7 @@ Allin llamk’aykunata ruwani: webkuna, backofficekuna, automatización, integra
 
 ## Tech stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,ts,php,mysql,wordpress,tailwind,astro,docker,github,githubactions,linux" alt="Tech stack icons" />
 </p>
 
@@ -82,12 +82,14 @@ Allin llamk’aykunata ruwani: webkuna, backofficekuna, automatización, integra
 
 ---
 
-## GitHub stats
+## Working principles
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cdryampi&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdryampi&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+```txt
+USEFUL SOFTWARE > SHINY NOISE
+MAINTAINABLE CODE > CLEVER TRICKS
+REAL DEPLOYMENTS > EMPTY DEMOS
+AUTOMATION > REPETITIVE WORK
+```
 
 ---
 
